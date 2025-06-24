@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+output.xml
+log.html
+report.html
+playwright-log.txt
+*.pyc
